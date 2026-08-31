@@ -186,8 +186,16 @@ More real-world projects will be deployed here soon. 🚀
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF" height="180"> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF"> </p>
 📊 CONTRIBUTION GRAPH
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"> </p>
-🐍 CONTRIBUTION SNAKE
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"> </p>
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Jashwanth-19/Jashwanth-19/gh-pages/github-contribution-grid-snake-dark.svg"
+    alt="Jashwanth's GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
 🧠 learning.log
 [+] Currently Learning
 
